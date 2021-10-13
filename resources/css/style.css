@@ -1,0 +1,18 @@
+html {
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  background-color: black;
+}
+
+a {
+  text-decoration: underline;
+  color: green;
+}
+
+.waterfall_video img {
+  height: 200px;
+  width: 300px;
+  margin: 10px;
